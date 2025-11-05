@@ -9,3 +9,8 @@
 ### Added
 
 - Initial commit
+
+### CHANGED
+- Removed unintended "XXXXXXX" insertion in 'data/a1901527.txt'
+
+See issue: https://github.com/davmlaw/2025_assessment_6_version_control/issues/101
